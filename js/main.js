@@ -1,13 +1,13 @@
 const typed = new Typed('.typed', {
 	strings: [
-		'<i class="texto1">Freedom Users</i>',
-		'<i class="texto2">Hacking Society</i>',
-		'<i class="texto3">Practice with machines</i>',
-		'<i class="texto1">Exclusive Machines</i>',
-		'<i class="texto2">knowledge Library</i>',
-		'<i class="texto3">Community and Forum</i>',
-		'<i class="texto1">Real and Thematic Environments</i>',
-		'<i class="texto2">Sector 23</i>',
+		'<i class="texto1">Challenge # 1</i>',
+		'<i class="texto2">Welcome To The Game</i>',
+		'<i class="texto2">Easy Difficulty Challenge</i>',
+		'<i class="texto3">Strength Your Brain</i>',
+		'<i class="texto1">Use Logic</i>',
+		'<i class="texto2">Laugh At The Joke</i>',
+		'<i class="texto3">Become The Best Clown</i>',
+		'<i class="texto1">Let The Game Begin</i>',
 	],	
 	
 	typeSpeed: 50, 
