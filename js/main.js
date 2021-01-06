@@ -5,7 +5,7 @@ const typed = new Typed('.typed', {
 		'<i class="texto2">Easy Difficulty Challenge</i>',
 		'<i class="texto3">Strength Your Brain</i>',
 		'<i class="texto1">Use Logic</i>',
-		'<i class="texto2">Robots Is Not A Joke</i>',
+		'<i class="texto2">google watch this challenge</i>',
 		'<i class="texto3">Become The Best Clown</i>',
 		'<i class="texto1">Let The Game Begin</i>',
 	],	
