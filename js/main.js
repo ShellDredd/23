@@ -1,5 +1,5 @@
 
-madafaka = s4vitar
+var madafaka = s4vitar;
 
 const typed = new Typed('.typed', {
 	strings: [
