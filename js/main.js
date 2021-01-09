@@ -1,8 +1,3 @@
-
-var madafaka = s4vitar;
-
-console.log(typeof madafaka);
-
 const typed = new Typed('.typed', {
 	strings: [
 		'<i class="texto1">Challenge # 1</i>',
