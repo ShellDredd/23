@@ -1,3 +1,6 @@
+
+madafaka= s4vitar
+
 const typed = new Typed('.typed', {
 	strings: [
 		'<i class="texto1">Challenge # 1</i>',
